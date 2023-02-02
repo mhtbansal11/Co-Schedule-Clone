@@ -23,39 +23,33 @@
     <li>
      <div>
          <h4>homepage</h4>
-         <img src="https://i.postimg.cc/4ykjsJts/Screenshot-20230123-115844.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/YCnzxQzf/home1.png" alt=" homepage"/>
+          <img src="https://i.postimg.cc/xCHGYhDt/home2.png" alt=" homepage"/>
+           <img src="https://i.postimg.cc/65zr9CgJ/home3.png" alt=" homepage"/>
      </div>
     </li>
     <li>
      <div>
-         <h4>Login </h4>
-         <img src="https://i.postimg.cc/j5FdXnGv/Screenshot-20230123-115651.png" alt="login"/>
+         <h4>Marketing </h4>
+         <img src="https://i.postimg.cc/RhgWzLFg/marketing1.png" alt="marketing"/>
+         <img src="https://i.postimg.cc/bJ8rDBS6/marketing2.png" alt="marketing"/>
+         <img src="https://i.postimg.cc/15TzctNV/marketing3.png" alt="marketing"/>
      </div>
     </li> 
     <li>
      <div>
-         <h4>Signup</h4>
-         <img src="https://i.postimg.cc/3RdDYhhS/Screenshot-20230123-115630.png" alt="signup"/>
+         <h4>Pricing Page</h4>
+         <img src="https://i.postimg.cc/mrW2J5jb/pricing.png" alt="Pricing"/>
      </div>
     </li> 
     <li>
      <div>
-         <h4>Product Page</h4>
-         <img src="https://i.postimg.cc/cLxCdWMR/Screenshot-20230123-115615.png" alt="product page"/>
+         <h4>Stories Page</h4>
+         <img src="https://i.postimg.cc/C1P0hPGn/stories1.png" alt="Stories page"/>
+          <img src="https://i.postimg.cc/jS0bSJ7c/stories2.png" alt="Stories page"/>
      </div>
     </li> 
-    <li>
-     <div>
-         <h4>Cart Page</h4>
-         <img src="https://i.postimg.cc/KjbFQ70P/Screenshot-20230123-115801.png" alt="cart"/>
-     </div>
-    </li> 
-    <li>
-     <div>
-         <h4>Checkout Page</h4>
-         <img src="https://i.postimg.cc/j5HYWwRL/Screenshot-20230123-115819.png" alt="checkout"/>
-     </div>
-    </li> 
+   
 
 </ul>
 <h1  align="center">We got some experience during this project</h1>
