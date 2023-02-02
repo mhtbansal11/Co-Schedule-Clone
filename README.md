@@ -17,6 +17,47 @@
 <p>We have created a clone of  CoSchedule, which is an online Social media service provider Company, Through this website, you can learn how to handle your social media account more efficiently and also provide many other services. On this website, we created a home page, Social media support page, Stats page, and Payment Getaway page and you can use these pages after you Login into this website. You can easily buy services through this website 
 </p>
 <br>
+
+## Below are some of the Screenshots with features:
+<ul>
+    <li>
+     <div>
+         <h4>homepage</h4>
+         <img src="https://i.postimg.cc/4ykjsJts/Screenshot-20230123-115844.png" alt=" homepage"/>
+     </div>
+    </li>
+    <li>
+     <div>
+         <h4>Login </h4>
+         <img src="https://i.postimg.cc/j5FdXnGv/Screenshot-20230123-115651.png" alt="login"/>
+     </div>
+    </li> 
+    <li>
+     <div>
+         <h4>Signup</h4>
+         <img src="https://i.postimg.cc/3RdDYhhS/Screenshot-20230123-115630.png" alt="signup"/>
+     </div>
+    </li> 
+    <li>
+     <div>
+         <h4>Product Page</h4>
+         <img src="https://i.postimg.cc/cLxCdWMR/Screenshot-20230123-115615.png" alt="product page"/>
+     </div>
+    </li> 
+    <li>
+     <div>
+         <h4>Cart Page</h4>
+         <img src="https://i.postimg.cc/KjbFQ70P/Screenshot-20230123-115801.png" alt="cart"/>
+     </div>
+    </li> 
+    <li>
+     <div>
+         <h4>Checkout Page</h4>
+         <img src="https://i.postimg.cc/j5HYWwRL/Screenshot-20230123-115819.png" alt="checkout"/>
+     </div>
+    </li> 
+
+</ul>
 <h1  align="center">We got some experience during this project</h1>
 <h4>During this project we got to learn how to work in groups.</h4>
 <h4>During this project we increased our communication skills.</h4>
